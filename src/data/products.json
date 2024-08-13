@@ -1,0 +1,145 @@
+[
+    {
+        "id": "1",
+        "title": "Zapatillas Hombre01",
+        "description": "zapatillas deportivas para hombres",
+        "code": "ZH1",
+        "price": 89.999,
+        "status": true,
+        "stock": 5,
+        "category": "Hombres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/6540927/pexels-photo-6540927.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Zapatillas Mujer01",
+        "description": "zapatillas deportivas para mujeres",
+        "code": "ZM1",
+        "price": 85.999,
+        "status": true,
+        "stock": 8,
+        "category": "mujeres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/15857201/pexels-photo-15857201/free-photo-of-disenador-lujo-zapato-calzado.png?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Zapatillas Hombre02",
+        "description": "zapatillas deportivas para hombres",
+        "code": "ZH2",
+        "price": 75.999,
+        "status": true,
+        "stock": 4,
+        "category": "Hombres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/9666620/pexels-photo-9666620.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Zapatillas Hombre03",
+        "description": "zapatillas deportivas para hombres",
+        "code": "ZH3",
+        "price": 99.999,
+        "status": true,
+        "stock": 3,
+        "category": "Hombres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/6540980/pexels-photo-6540980.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Zapatillas Mujer02",
+        "description": "zapatillas deportivas para mujeres",
+        "code": "ZM2",
+        "price": 70.999,
+        "status": true,
+        "stock": 6,
+        "category": "mujeres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/8456105/pexels-photo-8456105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Zapatillas Hombre04",
+        "description": "zapatillas deportivas para hombres",
+        "code": "ZH4",
+        "price": 81.999,
+        "status": true,
+        "stock": 7,
+        "category": "Hombres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/8979069/pexels-photo-8979069.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Zapatillas Mujer03",
+        "description": "zapatillas deportivas para mujeres",
+        "code": "ZM3",
+        "price": 95.999,
+        "status": true,
+        "stock": 7,
+        "category": "mujeres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/7429758/pexels-photo-7429758.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Zapatillas Hombre05",
+        "description": "zapatillas deportivas para hombres",
+        "code": "ZH5",
+        "price": 71.999,
+        "status": true,
+        "stock": 5,
+        "category": "Hombres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/14337852/pexels-photo-14337852.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Zapatillas Mujer04",
+        "description": "zapatillas deportivas para mujeres",
+        "code": "ZM4",
+        "price": 85.999,
+        "status": true,
+        "stock": 5,
+        "category": "mujeres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/6540993/pexels-photo-6540993.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Zapatillas Hombre06",
+        "description": "zapatillas deportivas para hombres",
+        "code": "ZH6",
+        "price": 78.999,
+        "status": true,
+        "stock": 5,
+        "category": "Hombres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/4252986/pexels-photo-4252986.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Zapatillas Mujer05",
+        "description": "zapatillas deportivas para mujeres",
+        "code": "ZM5",
+        "price": 72.999,
+        "status": true,
+        "stock": 8,
+        "category": "mujeres",
+        "thumbnails": [
+            "https://images.pexels.com/photos/6747236/pexels-photo-6747236.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ]
+    }
+]
